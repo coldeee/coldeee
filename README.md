@@ -1,6 +1,7 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Coldeee
 
 [![](https://img.shields.io/badge/-@coldeee-%23181717?style=flat-square&logo=github)](https://github.com/@coldeee)
+
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 🖖 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | ☕️ 
