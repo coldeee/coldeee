@@ -31,9 +31,4 @@
 ![coldeee's github stats](https://github-readme-stats.vercel.app/api?username=coldeee&show_icons=true&theme=dracula)
 ![SVG Image](https://raw.githubusercontent.com/coldeee/github-stats-transparent/2c2a1b8315234b4afd706af53a96a7a9155aba2f/generated/languages.svg)
 
-## Top Langs
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldeee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 
