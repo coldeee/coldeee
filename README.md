@@ -29,4 +29,10 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![coldeee's github stats](https://github-readme-stats.vercel.app/api?username=coldeee&show_icons=true&theme=dracula)
+
+## Top Langs
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldeee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
